@@ -8,8 +8,14 @@ Key Objectives:
 - Predict future prices using machine learning models.
 - Visualize price movements and model accuracy.
 
-Tools & Libraries:
-Python, pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn, yfinance
+Libraries:
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- statsmodels
+- scikit-learn
+- yfinance
 
 Features:
 - Data collection using yfinance
